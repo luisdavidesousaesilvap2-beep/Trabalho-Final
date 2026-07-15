@@ -35,4 +35,5 @@ README.md — este arquivo
 
 Autor
 Luis Davi de Sousa e Silva
+Albert camilo carvalho de souza
 Algoritmos e Lógica de Programação
